@@ -1,138 +1,124 @@
-<div align="center">
+<h1 align="center">
+  Hi 
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"
+    style="height:1em; vertical-align:middle;"
+  />, I'm Nilesh!
+  <img align="right" height="30" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
+  <img align="left" height="30" style="transform: scaleX(-1); display: inline-block;" 
+       src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFwZzQ1NzMyemQ0dTdsYzhtcjhpZjZ4ZTk2ZHFvaHpiZ3F2MngybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/31vamYdZV5ISQ/giphy.gif" />
+</h1>
 
-# `< Hello, World! />`
-### Nilesh Kumar Seth
-**CS Undergrad @ BIT Mesra '28 &nbsp;·&nbsp; DSA Grinder &nbsp;·&nbsp; Full-Stack Dev in the Making**
+<h3 align="center">Full Stack Developer & Competitive Programmer from India 🇮🇳</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/NILESH-KUMAR-SETH)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/NILESHSETH)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/NILESHSETH)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/NILESHSETH)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nileshseth39@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nilesh_seth0077)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% />
 
-</div>
+<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+  <tr>
+    <!-- Left Column: Profile Info + Connect -->
+    <td width="33%" align="left" valign="top" style="padding: 100px;">
+      <div style="margin-top: 20px;">
+        <br>
+        <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&base=0&label=Profile%20views+count&color=F80D00&style=flat-square" alt="Profile Views" width="160" />
+        <a href="https://leetcode.com/NILESHSETH1">
+          <img 
+            src="https://img.shields.io/badge/LeetCode-1605%20Max%20%7C%20550%2B%20Solved-2ECC71?style=flat-square&logo=leetcode&logoColor=yellow"
+            alt="LeetCode"
+          />
+        </a>
+        <a href="https://codeforces.com/profile/NILESHSETH">
+          <img 
+            src="https://img.shields.io/badge/Codeforces-Pupil%20(1144)-03A89E?style=flat-square&logo=codeforces&logoColor=blue"
+            alt="Codeforces"
+          />
+        </a>
+        <br>
+        <br>
+        <ul style="list-style: none; padding: 0; margin: 0 0 15px 0;">
+          <li style="margin-bottom: 8px;"> <b>B.Tech in CSE</b>, BIT Mesra (2024–2028)</li>
+          <li style="margin-bottom: 8px;"> Building <b>Full Stack + AI Projects</b></li>
+          <li style="margin-bottom: 8px;"> Currently learning <b>Next.js & Backend (Node/Express)</b></li>
+          <li style="margin-bottom: 12px;"> <b>sethji.nileshkumar@gmail.com</b></li>
+        </ul>
+        <b>Connect:</b><br>
+        <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="28" />
+        </a>
+        <a href="https://codeforces.com/profile/NILESHSETH" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="28" />
+        </a>
+        <a href="https://leetcode.com/NILESHSETH1" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="28" />
+        </a>
+        <a href="https://www.codechef.com/users/binary_sage" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="28" />
+        </a>
+      </div>
+    </td>
 
----
+    <!-- Center Column: Quote -->
+    <td width="33%" align="center" valign="top" style="padding: 0 20px;">
+      <img 
+        width="110" height="110"
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHU1cXN0cW5oaW9odTBiNTVzY3RvaG93MmVrZmRqamcyaTh5aXR5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cWqyG3X3Fxpeab7CIz/giphy.gif"
+        style="border-radius: 8px;"
+      /><br>
+      <blockquote style="margin: 0; font-style: italic; color: FFFFFF; font-size: 14px; line-height: 1.4;">
+  "You are not your rating.<br>
+  You are not your framework.<br>
+  You are not the stack you use.<br>
+  Code is just a tool.<br>
+  Problem solving is the skill.<br>
+  Build in silence. Ship with impact.<br>
+  Let the projects talk."
+</blockquote>
+    </td>
 
-## ⚡ At a Glance
+    <!-- Right Column: Language Stats -->
+    <td width="33%" align="center" valign="middle" style="padding: 20px;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 140px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866&langs_count=10&custom_title=Languages+Behind+the+Logic"
+          width="600"
+          height="600"
+          alt="Top Languages"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-| 🧩 Problems Solved | 🏆 CP Platforms | 🛠️ Projects Built | 🎯 Goal |
-|:-:|:-:|:-:|:-:|
-| **500+** | **3** | **5+** | **SWE Intern 2025** |
-
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Rating | Solved | Badge |
-|:---:|:---:|:---:|:---:|
-| 🟡 **LeetCode** | `1600+` | 250+ | Top 25% |
-| 🔵 **Codeforces** | `1200+` | 100+ | Pupil 🟢 |
-| 👨‍🍳 **CodeChef** | `1500+` | 150+ | ⭐⭐⭐ |
-
-</div>
-
----
-
-## 🧩 DSA Breakdown
-
-```
-Easy    ████████████████░░░░  150+  ✅
-Medium  ████████████░░░░░░░░   80+  🔥
-Hard    ██████░░░░░░░░░░░░░░   20+  💪
-```
-
-**Topics mastered:** Arrays · Strings · Hashing · Two Pointers · Sliding Window · Recursion · Backtracking · Sorting · Searching
-
-**Currently grinding:** Trees · Graphs · BFS/DFS
-
-**Up next:** Dynamic Programming · Greedy Algorithms
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Highlights |
-|:---|:---|:---|
-| [📈 **Stock Market App**](https://github.com/NILESHSETH/stock-market-app) | React · Node.js · Express · MongoDB | Real-time stock data, REST APIs, interactive charts |
-| [✍️ **Megablog**](https://github.com/NILESHSETH/megablog) | React · Appwrite · Redux Toolkit · Tailwind | Auth, rich text editor, cloud file storage |
-| [✅ **Redux Todo**](https://github.com/NILESHSETH/redux-todo) | React · Redux Toolkit · Vite | Store, slices, reducers, dispatch & selectors |
-| [🎯 **Context Todo**](https://github.com/NILESHSETH/context-todo) | React · Context API · localStorage | State management without Redux, persisted state |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width=100% />
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NILESHSETH&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESHSETH&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NILESHSETH&theme=github_dark&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,python,react,redux,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,vite,appwrite&perline=9" />
+</p>
 
 ---
 
-## 🎯 Currently
+### 📊 GitHub Stats
 
-```javascript
-const nilesh = {
-  college:   "B.Tech CSE @ BIT Mesra (2024–2028)",
-  building:  ["Stock Market App", "Full-Stack Portfolio"],
-  learning:  ["Trees & Graphs", "Next.js", "TypeScript"],
-  clubs:     ["Society for Data Science — Core Member", "Photography Club"],
-  goal:      "Land a SWE Internship in 2025 🎯",
-  funFact:   "I debug better at 2 AM than after 8 hours of sleep 😄"
-};
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F80D00&icon_color=F8D866" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-GITHUB-USERNAME&theme=react&hide_border=true&background=0D1117&ring=F80D00&fire=F80D00&currStreakLabel=F8D866" width="48%" />
+</p>
 
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-*"First, solve the problem. Then, write the code."*
+| Project | Tech | Description |
+|---|---|---|
+| 🟢 **Signalist** | React, Node.js, Express, MongoDB | Live stock market web app with real-time prices & charts |
+| 📝 **Megablog** | React, Appwrite, Redux, Tailwind | Full-stack blogging platform with auth & file storage |
+| ✅ **Redux Todo App** | React, Redux Toolkit, Tailwind | Task manager with full CRUD & global state management |
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=NILESHSETH&icon=0&color=1)
+---
 
-**BIT Mesra '28 &nbsp;·&nbsp; Core Member, Society for Data Science &nbsp;·&nbsp; Photography Club**
-
-</div>
+<p align="center">
+  <i>"550+ problems solved. Still grinding. Always building."</i>
+</p>
