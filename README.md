@@ -34,7 +34,7 @@
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/NILESHSETH1?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/NILESHSETH?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
 
