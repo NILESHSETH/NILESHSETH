@@ -61,57 +61,6 @@
 </div>
 <br/>
 
-**1.** Confirm you have a public repo named exactly `NILESHSETH` (same as your username) — GitHub's special "profile README" repo. Create it if it doesn't exist.
-
-**2.** Inside it, create `.github/workflows/snake.yml`:
-
-```yaml
-name: generate animated snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # regenerates daily at midnight UTC
-  workflow_dispatch:      # lets you trigger it manually from the Actions tab
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate snake svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**3.** Commit to `main`. Open the **Actions** tab — "generate animated snake" should be running. Takes 30-60 sec.
-
-**4.** It auto-creates an `output` branch holding the SVGs. The `<picture>` block above already points there, so once the run finishes, refresh your profile page and the snake is live — dark or light version depending on the viewer's GitHub theme.
-
-**5.** The cron line reruns it daily on its own — you don't touch it again.
-
-If the run fails with a permissions error: **Settings → Actions → General → Workflow permissions** → set to "Read and write permissions."
-
-</details>
-
----
 
 <details>
 <summary align="center"><b>> ✨ CLICK ME — WHO AM I? ✨</b></summary>
@@ -186,7 +135,8 @@ If the run fails with a permissions error: **Settings → Actions → General �
 </div>
 
 <br/>
-
+<div align= "center">
+  
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
 | 📈 **Nelix AI** | Next.js · MongoDB Atlas · Inngest · shadcn/ui | Real-time stock market app with background job pipelines |
@@ -197,7 +147,7 @@ If the run fails with a permissions error: **Settings → Actions → General �
 | 📝 **Megablog** | React · Appwrite · Redux Toolkit | Full-stack blogging platform with auth and CRUD |
 
 ---
-
+</div>
 <div align="center">
 
 ## > cat experience.log
@@ -272,7 +222,7 @@ const nilesh = {
 
 ## > ./connect.sh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/nileshkumarseth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nileshseth/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/NILESHSETH)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300FF41.svg?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/NILESHSETH1)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%2300FF41.svg?style=flat-square&logo=codeforces&logoColor=black)](https://codeforces.com/profile/NILESHSETH)
