@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## 🐍 contribution_snake.exe
+## 🐍 contribution_snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NILESHSETH/NILESHSETH/output/github-contribution-grid-snake-dark.svg" />
@@ -59,12 +59,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NILESHSETH1?theme=dark&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
-
-> **Real talk on Top Languages / GitHub Stats / Trophies:** those 3 are dead right now because `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are shared free instances that literally millions of profiles hit — they rate-limit constantly. Streak and LeetCode render fine because they're hosted elsewhere. No query param fixes this reliably; the only permanent fix is forking + self-hosting your own instance ([github-readme-stats deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)). The snake above is the actually-dependable dynamic piece — it runs off your own repo, not a shared server, so it won't randomly die on visitors.
-
-<details>
-<summary><b>🔧 One-time setup: get the snake working (~5 min, do this once)</b></summary>
-
 <br/>
 
 **1.** Confirm you have a public repo named exactly `NILESHSETH` (same as your username) — GitHub's special "profile README" repo. Create it if it doesn't exist.
