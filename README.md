@@ -30,7 +30,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NILESHSETH/NILESHSETH/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-*(this will show as a broken image until you run the 5-min one-time setup below — it's not hotlinked to anyone else's server, it's generated fresh from your own repo)*
+
 
 </div>
 
