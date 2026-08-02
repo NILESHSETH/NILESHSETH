@@ -22,6 +22,22 @@
 
 <div align="center">
 
+## 🐍 contribution_snake.exe
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NILESHSETH/NILESHSETH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NILESHSETH/NILESHSETH/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NILESHSETH/NILESHSETH/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+*(this will show as a broken image until you run the 5-min one-time setup below — it's not hotlinked to anyone else's server, it's generated fresh from your own repo)*
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 github_stats.exe
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESHSETH&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" height="165" alt="Top Languages" />
@@ -44,7 +60,62 @@
 
 </div>
 
-> **Note on the cards above:** GitHub's public stats/streak APIs (hosted on shared Vercel instances) occasionally rate-limit and show blank cards — that's on their infra, not your profile. If they keep failing, the permanent fix is self-hosting your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) (takes 5 min, one-click Vercel deploy) and swapping the URLs above to point to your own deployment. Also add `count_private=true` **only** works reliably if you fork+deploy your own instance with a PAT — the public instance ignores it for security reasons.
+> **Real talk on Top Languages / GitHub Stats / Trophies:** those 3 are dead right now because `github-readme-stats.vercel.app` and `github-profile-trophy.vercel.app` are shared free instances that literally millions of profiles hit — they rate-limit constantly. Streak and LeetCode render fine because they're hosted elsewhere. No query param fixes this reliably; the only permanent fix is forking + self-hosting your own instance ([github-readme-stats deploy guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)). The snake above is the actually-dependable dynamic piece — it runs off your own repo, not a shared server, so it won't randomly die on visitors.
+
+<details>
+<summary><b>🔧 One-time setup: get the snake working (~5 min, do this once)</b></summary>
+
+<br/>
+
+**1.** Confirm you have a public repo named exactly `NILESHSETH` (same as your username) — GitHub's special "profile README" repo. Create it if it doesn't exist.
+
+**2.** Inside it, create `.github/workflows/snake.yml`:
+
+```yaml
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # regenerates daily at midnight UTC
+  workflow_dispatch:      # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3.** Commit to `main`. Open the **Actions** tab — "generate animated snake" should be running. Takes 30-60 sec.
+
+**4.** It auto-creates an `output` branch holding the SVGs. The `<picture>` block above already points there, so once the run finishes, refresh your profile page and the snake is live — dark or light version depending on the viewer's GitHub theme.
+
+**5.** The cron line reruns it daily on its own — you don't touch it again.
+
+If the run fails with a permissions error: **Settings → Actions → General → Workflow permissions** → set to "Read and write permissions."
+
+</details>
 
 ---
 
