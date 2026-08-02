@@ -10,7 +10,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=hey+!+I'm+Nilesh+%2C+Welcome+to+my+corner+%3E_;2nd+Year+%7C+BIT+Mesra+%7C+CSE+(2024%E2%80%932028);Backend+Dev+%40+Allswift+%7C+GSSoC+2026+Contributor;building+cool+stuff+%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=500&color=00FF41&center=true&width=650&lines=hey+!+I'm+Nilesh+%2C+Welcome+to+my+corner+%3E_;3rd+Year+%7C+BIT+Mesra+%7C+CSE+(2024%E2%80%932028);Backend+Dev+%40+Allswift+Solutions+(NestJS%2C+MongoDB);GSSoC+2026+Contributor+%7C+SDS+BIT+Mesra;building+cool+stuff+%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -24,19 +24,27 @@
 
 ## 📊 github_stats.exe
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESHSETH&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NILESHSETH&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" height="165" alt="Top Languages" />
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=NILESHSETH&theme=chartreuse-dark&hide_border=true" height="160" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NILESHSETH&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NILESHSETH&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NILESHSETH&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
 
 <br/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/NILESHSETH?theme=chartreuse&font=Share%20Tech%20Mono&ext=heatmap)
+## 🏆 trophy_case.exe
+
+<img src="https://github-profile-trophy.vercel.app/?username=NILESHSETH&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+
+<br/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/NILESHSETH1?theme=dark&font=Share%20Tech%20Mono&ext=heatmap)
 
 </div>
+
+> **Note on the cards above:** GitHub's public stats/streak APIs (hosted on shared Vercel instances) occasionally rate-limit and show blank cards — that's on their infra, not your profile. If they keep failing, the permanent fix is self-hosting your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) (takes 5 min, one-click Vercel deploy) and swapping the URLs above to point to your own deployment. Also add `count_private=true` **only** works reliably if you fork+deploy your own instance with a PAT — the public instance ignores it for security reasons.
 
 ---
 
@@ -53,16 +61,18 @@
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
 ║  Name       :  Nilesh Kumar Seth                         ║
-║  From       :  Dhanbad, Jharkhand, India                 ║
+║  From       :  Ranchi, Jharkhand, India                   ║
 ║  Education  :  B.Tech CSE @ BIT Mesra (2024-2028)        ║
-║                2nd Year  |  CGPA: 8.01                   ║
+║                3rd Year  |  CGPA: 8.02                   ║
 ║                                                          ║
-║  Currently  :  Backend Dev Intern @ Allswift Solutions   ║
+║  Currently  :  Placement Grind Mode 🔥                    ║
+║                Ex Backend Dev Intern @ Allswift Solutions ║
 ║                GSSoC 2026 Contributor                    ║
-║                Associate @ Society for Data Science      ║
+║                Core Member @ Society for Data Science    ║
+║                Photography Club (PSOC)                   ║
 ║                                                          ║
-║  Interests  :  Backend Dev  ·  ML/AI  ·  DSA             ║
-║                Stock Markets  ·  Open Source             ║
+║  Interests  :  Backend Dev  ·  DSA  ·  System Design      ║
+║                Stock Markets  ·  Anime  ·  Reading        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -77,28 +87,27 @@
 
 *// languages*
 
-<img src="https://skillicons.dev/icons?i=c,cpp,javascript,python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript,python,html,css&theme=dark" />
 
 <br/><br/>
 
 *// frontend & backend*
 
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite,nodejs,express,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,nextjs,nodejs,express,nestjs&theme=dark" />
 
 <br/><br/>
 
 *// databases & tools*
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,postman,vercel,aws,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,git,github,postman,vercel,aws,linux&theme=dark" />
 
 <br/><br/>
 
 *// ai / ml*
 
 ```
-[ XGBoost ]  [ Random Forest ]  [ scikit-learn ]  [ TensorFlow ]
-[ OpenAI API ]  [ Hugging Face ]  [ NumPy ]  [ Pandas ]  [ OpenCV ]
-[ AWS SageMaker ]  [ AWS Bedrock ]  [ Generative AI ]  [ NLP ]
+[ XGBoost ]  [ Random Forest ]  [ NLP ]  [ Gemini API ]  [ OpenAI API ]
+[ AWS SageMaker ]  [ AWS Bedrock ]  [ scikit-learn ]
 ```
 
 </div>
@@ -115,12 +124,12 @@
 
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
-| 🤖 **AI Interview Management System** | NestJS · React · Python · MongoDB · OpenAI API | Full-stack LMS with custom NLP model trained from scratch; hybrid AI evaluation pipeline |
-| 📈 **Live Stock Market Web App** | React · Node.js · Express · MongoDB · Chart.js | Real-time stock data viz with live REST API, rate-limiting, and price caching |
-| 🔮 **Stock Price Forecaster** | XGBoost · Random Forest · Python · scikit-learn | Time-series ML forecasting with feature engineering + ensemble comparison |
-| 💼 **Portfolio 3D** | React · Three.js · Vite · Tailwind · EmailJS | Interactive 3D developer portfolio deployed on Vercel |
+| 📈 **Nelix AI** | Next.js · MongoDB Atlas · Inngest · shadcn/ui | Real-time stock market app with background job pipelines |
+| 🤖 **Nexora** | React · Vite · NestJS · MongoDB · Gemini AI | AI-powered interview management system with native schema-based evaluation |
+| ⚙️ **BullMQ Job System** | Next.js · Redis · BullMQ | Production-grade background job queue architecture |
+| ☕ **NestJS Mail Module** | NestJS · BullMQ · Handlebars | Queued transactional email system with templating |
+| 💼 **Portfolio 3D** | React Three Fiber · GSAP · Tailwind v4 | Interactive 3D developer portfolio deployed on Vercel |
 | 📝 **Megablog** | React · Appwrite · Redux Toolkit | Full-stack blogging platform with auth and CRUD |
-| ☕ **Chai-Backend** | Node.js · Express · MongoDB | Production-grade MVC + JWT auth backend |
 
 ---
 
@@ -129,20 +138,17 @@
 ## > cat experience.log
 
 ```
-[JUN 2026 → NOW]  Backend Developer Intern   @ Allswift Solutions (ASPL India)
-                  NestJS · Express · MongoDB · RESTful APIs
+[JUN 2026 → AUG 2026]  Backend Developer Intern   @ Allswift Solutions (ASPL India)
+                        NestJS · MongoDB · RESTful APIs
 
-[MAY 2026]        Software Developer          @ BITAcademia
-                  Full-stack features · Node.js · MongoDB
+[MAY 2026 → NOW]       Open Source Contributor     @ GSSoC 2026
+                        AI Agents & Open Source tracks · PRs & issues
 
-[MAY 2026 → NOW]  Open Source Contributor     @ GSSoC 2026
-                  AI Agents & Open Source tracks · PRs & issues
+[FEB 2026 → NOW]       Core Member                  @ Society for Data Science, BIT Mesra
+                        Co-organized 150+ participant hackathon · workshops
 
-[DEC 2025]        ML Intern (Fellowship)      @ Future Interns
-                  Supervised learning · scikit-learn · model evaluation
-
-[FEB 2026 → NOW]  Associate                   @ Society for Data Science, BIT Mesra
-                  Co-organized 150+ participant hackathon · workshops
+[NOW]                  Member                       @ Photography Club (PSOC), BIT Mesra
+[NOW]                  Management Role              @ Aveon Associate
 ```
 
 </div>
@@ -158,7 +164,7 @@
 ║  COMPETITIVE PROGRAMMING                                 ║
 ╠══════════════════════════════════════════════════════════╣
 ║                                                          ║
-║  LeetCode   →  Max Rating 1650  |  Top 15% globally      ║
+║  LeetCode   →  Max Rating 1689  |  Top 15% globally      ║
 ║                Handle: NILESHSETH1                       ║
 ║                                                          ║
 ║  Codeforces →  Rating 1144                               ║
@@ -167,7 +173,7 @@
 ║  CodeChef   →  Rating 1451  (2★)                         ║
 ║                Handle: binary_sage                       ║
 ║                                                          ║
-║  Total: 600+ problems solved across all platforms        ║
+║  Total: 800+ problems solved across all platforms        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -178,34 +184,18 @@
 
 <div align="center">
 
-## > cat achievements.log
-
-```
-[★] GSSoC 2026 ............ Selected for AI Agents & Open Source tracks
-[★] Custom ML Model ....... Built NLP classifier from scratch w/ hyperparameter tuning
-[★] Ensemble ML ........... XGBoost vs Random Forest time series forecasting pipeline
-[★] Full-Stack ML ......... Integrated ML models into production web apps (Flask + React)
-[★] AWS (in progress) ..... SageMaker for ML training/inference · Bedrock for LLM
-[★] SDS BIT Mesra ......... Co-organized 150+ participant hackathon
-```
-
-</div>
-
----
-
-<div align="center">
-
-## > ./currently_building.sh
+## > ./currently_grinding.sh
 
 ```javascript
 const nilesh = {
-  role        : "Backend Dev Intern @ Allswift Solutions",
-  building    : ["AI-powered LMS (NestJS + ML)", "Open Source @ GSSoC 2026"],
-  learning    : ["AWS SageMaker", "TensorFlow", "Advanced System Design"],
-  grinding    : ["LeetCode daily", "Codeforces contests"],
-  reading     : ["Dale Carnegie", "Robert Cialdini", "Robert Greene"],
+  status      : "Full placement grind mode",
+  applied_to  : ["Google (referral)", "Microsoft", "GE HealthCare", "Cisco"],
+  dsa_sheet   : "285 curated questions · C++ · subsequence DP patterns",
+  building    : ["Minor Project (w/ Dr. Debjani Mustafi)", "Nelix AI"],
+  routine     : ["Gym", "College", "DSA", "OA Prep"],
+  reading     : ["Carnegie", "Cialdini", "Greene", "Voss"],
   investing   : ["Stock Markets", "Mutual Funds"],
-  goal        : "SWE / ML Engineer @ top product company"
+  goal        : "Crack SWE placements @ top product company"
 };
 ```
 
@@ -241,5 +231,3 @@ const nilesh = {
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thanks+for+visiting+!+%3E_" alt="Thank you!" />
 
 </div>
-
-</details>
